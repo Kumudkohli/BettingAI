@@ -27,3 +27,6 @@ Please note that sports betting involves financial risk, and this project does n
 
 - Kumud Kohli - [GitHub Profile](https://github.com/kumudkohli)
 - I welcome contributions to improve and expand this project. If you have ideas, bug fixes, or feature enhancements, please submit a pull request following our contribution guidelines.
+
+## 
+Happy betting, and may your AI-powered arbitrage strategies bring you success in the world of sports betting!!!
